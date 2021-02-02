@@ -4,7 +4,7 @@ current gamestate object
 """
 
 import pygame as p
-import ChessEngine
+import ChessEngine #call the file ChessEngine (not a library)
 
 import random
 import warnings
